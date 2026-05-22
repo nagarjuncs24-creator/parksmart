@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.parksmart.app-debug-76:/layout_fragment_booking.xml.flat",
+        "source": "com.parksmart.app-main-78:/layout/fragment_booking.xml"
+    },
+    {
+        "merged": "com.parksmart.app-debug-76:/layout_activity_main.xml.flat",
+        "source": "com.parksmart.app-main-78:/layout/activity_main.xml"
+    }
+]
