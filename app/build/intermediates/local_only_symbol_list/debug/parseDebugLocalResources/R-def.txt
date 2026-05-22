@@ -1,9 +1,0 @@
-R_DEF: Internal format may change without notice
-local
-id btn_book
-id et_duration
-id map
-layout activity_main
-layout fragment_booking
-string app_name
-style Theme.ParkSmart
